@@ -138,7 +138,7 @@ itoa_pop:
     mov     byte [rsi], 0           ; Null-terminate the string
     ret
 
-Documentation
+
 
 ; Documentation: Modular Program and Register Handling
 ; ----------------------------------------------------
