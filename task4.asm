@@ -150,7 +150,6 @@ atoi_done:
     ret
 
 
-Documentation
 ; Documentation: Data Monitoring and Control Simulation
 ; -----------------------------------------------------
 ; This program simulates a sensor-based control system for managing a motor and alarm
