@@ -94,4 +94,4 @@ Feel free to fork, modify, and submit pull requests for improvements or new feat
 ---
 
 ## License
-This repository is licensed under the MIT License. See `LICENSE` for details.
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
